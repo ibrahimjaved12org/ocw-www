@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: 6b5fece4-72e7-47b7-8b34-d48180f5cacf
+  name: Menu
+  pageRef: /course-lists/test
+  weight: 10
