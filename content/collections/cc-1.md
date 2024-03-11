@@ -1,13 +1,12 @@
 ---
 content_type: course-collection
 courselists:
-  content:
-  - 3644b62c-e413-44ab-b444-4a7fdd508196
+  content: []
   website: ocw-www
 cover-image:
   content: d297276b-5eb8-4661-a1f4-4a9edcd6d029
   website: ocw-www
-description: CC 1
+description: ''
 draft: false
 featured-courses:
   content: 3644b62c-e413-44ab-b444-4a7fdd508196
