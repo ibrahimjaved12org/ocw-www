@@ -6,15 +6,11 @@ courselists:
 cover-image:
   content: d297276b-5eb8-4661-a1f4-4a9edcd6d029
   website: ocw-www
-description: '{{% resource_link "d297276b-5eb8-4661-a1f4-4a9edcd6d029" "Great\_Wave\_off\_Kanagawa2.jpg"
-  %}}
-
-
-  cc1cc'
+description: cc1
 draft: false
 featured-courses:
-  content: f1a71ef4-1372-4f46-9cb5-3f9a52c363ec
+  content: ''
   website: ocw-www
 title: cc1
-uid: 06971e06-06ef-47fc-bf78-b46a5ffd0a0c
+uid: a2cd2088-1eb5-4913-ab86-52978b14f64f
 ---
