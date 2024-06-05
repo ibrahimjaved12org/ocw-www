@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: 35abb102-b678-4965-9f7a-bc9aced8a536
+  name: m1
+  pageRef: /pages/p1
+  weight: 10
