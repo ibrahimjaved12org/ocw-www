@@ -3,3 +3,7 @@ mainmenu:
   name: m1
   pageRef: /pages/p1
   weight: 10
+- identifier: fe3305f1-028d-4ced-aaaa-bdc85b8e5e1a
+  name: menuis
+  pageRef: /external-resources/er2
+  weight: 20
