@@ -6,10 +6,12 @@ file: /ocw-www/catmewo.jpeg
 file_size: 4825
 file_type: image/jpeg
 image_metadata:
-  caption: ''
-  credit: ''
-  image_alt: ''
-learning_resource_types: []
+  caption: Caption for catmewo image metadata
+  credit: Credit for catmewo image metadata
+  image_alt: ALT text for catmewo image metadata
+learning_resource_types:
+- Competition Videos
+- Activity Assignments with Examples
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: catMewo.jpeg
@@ -25,4 +27,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-test description for cat meowo
+Description for catmewo resource
