@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: test tust
 draft: false
 file: /ocw-www/meow5.jpeg
 file_size: 69325
