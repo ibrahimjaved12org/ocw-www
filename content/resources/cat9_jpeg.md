@@ -31,4 +31,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-description of cat image{{% resource_link "35abb102-b678-4965-9f7a-bc9aced8a536" "p1" %}}{{% resource_link "b628a666-c6b3-461f-846b-5c9c065195f9" "meow6.jpeg" %}}
+description of testcat image{{% resource_link "35abb102-b678-4965-9f7a-bc9aced8a536" "p1" %}}{{% resource_link "b628a666-c6b3-461f-846b-5c9c065195f9" "meow6.jpeg" %}}
