@@ -5,5 +5,16 @@ mainmenu:
   weight: 10
 - identifier: fe3305f1-028d-4ced-aaaa-bdc85b8e5e1a
   name: menuis
-  pageRef: /external-resources/er2
   weight: 20
+- identifier: 15eb2ea1-6313-451c-9645-c38a22260321
+  name: ER
+  pageRef: /external-resources/er4
+  weight: 30
+- identifier: d3c6088b-463c-48e9-bc2d-e7049d43ee61
+  name: ER2
+  pageRef: /external-resources/er3
+  weight: 40
+- identifier: adb115f7-c4bb-4fa2-85b9-260460a9ce55
+  name: ER3
+  pageRef: /external-resources/er2
+  weight: 50
