@@ -12,16 +12,16 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: test-video
-uid: 5f507a65-624b-4561-9529-5d5fc9beac95
+title: Test Video
+uid: 245102c3-9cbc-40d6-ab70-875d0ccab803
 video_files:
   archive_url: null
   video_captions_file: null
-  video_thumbnail_file: https://img.youtube.com/vi/-E_O2PwZpCc/default.jpg
+  video_thumbnail_file: https://img.youtube.com/vi/lZ3bPUKo5zc/default.jpg
   video_transcript_file: null
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: -E_O2PwZpCc
+  youtube_id: lZ3bPUKo5zc
 ---
