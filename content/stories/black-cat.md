@@ -11,7 +11,6 @@ leadquote: I used OCW to boost my knowledge of scientific concepts that I encoun
   that I encounter daily at my job. I used OCW to boost my knowledge of scientific
   concepts that I encounter daily at my job.
 location: United States
-name: Black cat
 occupation: Self-Learner
 title: Black cat
 uid: dc3fa45a-1502-4f9d-a3bc-60eeeca50dd7
