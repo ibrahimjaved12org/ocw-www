@@ -1,0 +1,9 @@
+---
+content_type: instructor
+first_name: Judith
+last_name: Tendler
+middle_initial: ''
+salutation: Prof.
+title: Prof. Judith Tendler
+uid: 9faa57af-a5a2-deb0-1fd3-29cf09baa6ab
+---

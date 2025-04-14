@@ -1,0 +1,9 @@
+---
+content_type: instructor
+first_name: Polina
+last_name: Anikeeva
+middle_initial: ''
+salutation: Prof.
+title: Prof. Polina Anikeeva
+uid: a8ae1c17-0fa0-ef11-cddf-c8f6dad702a5
+---

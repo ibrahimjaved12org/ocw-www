@@ -1,0 +1,9 @@
+---
+content_type: instructor
+first_name: "L\xE1szl\xF3"
+last_name: Tisza
+middle_initial: ''
+salutation: ''
+title: "L\xE1szl\xF3 Tisza"
+uid: 625c91cc-cb6f-eed0-ad56-981ef7f1ade4
+---
