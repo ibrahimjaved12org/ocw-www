@@ -1,0 +1,9 @@
+---
+content_type: instructor
+first_name: Carol
+last_name: Livermore
+middle_initial: ''
+salutation: Prof.
+title: Prof. Carol Livermore
+uid: fdaa39cf-8d06-11e9-ccf3-4a93d42cabb3
+---

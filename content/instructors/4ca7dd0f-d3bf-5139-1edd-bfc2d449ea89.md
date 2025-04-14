@@ -1,0 +1,9 @@
+---
+content_type: instructor
+first_name: Elizabeth
+last_name: Nolan
+middle_initial: ''
+salutation: Prof.
+title: Prof. Elizabeth Nolan
+uid: 4ca7dd0f-d3bf-5139-1edd-bfc2d449ea89
+---
