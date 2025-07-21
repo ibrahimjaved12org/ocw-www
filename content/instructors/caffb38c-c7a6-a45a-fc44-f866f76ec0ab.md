@@ -1,0 +1,9 @@
+---
+content_type: instructor
+first_name: Diane
+last_name: Davis
+middle_initial: ''
+salutation: Prof.
+title: Prof. Diane Davis
+uid: caffb38c-c7a6-a45a-fc44-f866f76ec0ab
+---
